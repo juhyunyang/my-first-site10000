@@ -49,7 +49,7 @@ export function Contact() {
     qrTitle: "QR 코드로 연락처 저장",
     qrSubtitle: "스캔하면 연락처가 자동으로 저장됩니다",
     bottomMessage: "\"사회적 가치 실현\"",
-    bottomSubMessage: "\"사회적 약자와 동행가는 기업\"",
+    bottomSubMessage: "사회적 약자와 동행하는 기업",
     qrContent: ["name","phone","email","location","website"],
     profileEmoji: "👤",
     background: {"image":"","video":"","color":"","opacity":0.1}

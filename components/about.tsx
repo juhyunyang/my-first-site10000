@@ -101,9 +101,9 @@ export function About() {
     background: {"image":"","video":"","color":"","opacity":0.1},
     experienceCards: [{"icon":"briefcase","title":"고용나눔사회적협동조합","period":"2020 - 현재","description":"이사장"},{"icon":"graduation","title":"단국대학교 부동산·건설대학원","period":"2025.03 ~ 재학중","description":"도시및부동산개발학과 석사과정"}],
     skills: [{"icon":"trophy","title":"사회적 가치 실현","description":""},{"icon":"heart","title":"사회적 약자와 동행하는 기업","description":"취약계층에 사회적서비스 또는 일자리 제공\n 노동시장에 참여하기 어려운 증증장애인의 고용창출에 기여하는 사회적 기업입니다."}],
-    storyTitle: "나의 이야기",
+    storyTitle: "나의 기업 이야기",
     story: ["\"취약계층에 사회적서비스 또는 일자리 제공\" 노동시장에 참여하기, 어려운 증증장애인의 고용창출에 기여하는 사회적 기업입니다. "],
-    storyImage: "",
+    storyImage: "/uploads/about-image-1765326374880.png",
     hobbies: ["📚 독서","✈️ 여행","✍️ 글쓰기"]
   }
   

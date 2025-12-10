@@ -37,9 +37,9 @@ export function Hero() {
   
   const defaultInfo = {
     greeting: "안녕하세요,",
-    name: "이명식",
-    title: "\"고용나눔사회적협동조합\"",
-    description: "이사장입니다.",
+    name: "\"사회적 가치 실현\"",
+    title: "고용나눔사회적협동조합 이사장 이명식 입니다.",
+    description: "사회적 약자와 동행, 우리 같이 걸어가요!!",
     profileImage: "/uploads/hero-profile-1765263415426.png",
     backgroundImage: "",
     backgroundVideo: "",
